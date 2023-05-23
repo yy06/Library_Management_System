@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1641432454 source:d:\code\c++\qim\book\main.cpp
+	"User.h"
+
+1641432578 d:\code\c++\qim\book\book.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<algorithm>
+
+1641432786 d:\code\c++\qim\book\user.h
+	"book.h"
+
+1641465725 source:f:\作业\数据结构\book\main.cpp
+	"User.h"
+
+1641466399 f:\作业\数据结构\book\user.h
+	"book.h"
+
+1641432580 f:\作业\数据结构\book\book.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<algorithm>
+
